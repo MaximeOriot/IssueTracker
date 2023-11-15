@@ -13,7 +13,7 @@ identifiée par un id unique, possède un titre et un contenu, ainsi qu'une date
 Les utilisateurs et les développeurs peuvent discuter d'une Issue en postant des commentaires. Ces commentaires sont 
 identifiés de manière unique par un id, possèdent un auteur, sont relatifs à une Issue, et possèdent un contenu.
 
-Le modèle métier est consultable [ici][metier-uml]
+Le modèle métier est consultable [ici][metier-uml]aaaaa
 
 ## Partie 1 : découverte
 
